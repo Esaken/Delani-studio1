@@ -27,3 +27,19 @@ body{
   flex: 25%;
   padding: 3px;
 }
+.top-left{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+.text-box{
+  padding: inherit;
+  margin: inherit;
+  box-sizing: border-box;
+  border: 2px white;
+}
