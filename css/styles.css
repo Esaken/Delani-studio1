@@ -49,15 +49,9 @@ body{
   top: 8px;
   right: 16px;
 }
-#btn1:hover{
-  border: 1px solid #888;
-  background-color: #ddd;
-}
-#btn2:hover{
-  border: 1px solid #888;
-  background-color: #ddd;
-}
-#btn3:hover{
-  border: 1px solid #888;
-  background-color: #ddd;
+
+#cont4{
+	border:2px solid white;
+	text-align: center;
+	vertical-align: center;
 }
