@@ -43,3 +43,9 @@ body{
   box-sizing: border-box;
   border: 2px white;
 }
+.top-centre{
+  position: top;
+  text-align: center;
+  top: 8px;
+  right: 16px;
+}
